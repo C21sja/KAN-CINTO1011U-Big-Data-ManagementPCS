@@ -1,6 +1,6 @@
 w,Age,Accessibility,EdLevel,Employment,Gender,MentalHealth,MainBranch,YearsCode,YearsCodePro,Country,PreviousSalary,HaveWorkedWith,ComputerSkills,Employed
 31363,<35,No,Undergraduate,1,Man,No,Dev,9,1,India,7372.0,Bash/Shell;C++;Go;HTML/CSS;JavaScript;Matlab;Node.js;PowerShell;Python;SQL;VBA;Docker;Git;Kubernetes;Express;jQuery;React.js;AWS;Google Cloud Platform;Heroku;Cassandra;Firebase;MariaDB;MongoDB;PostgreSQL;Redis,26,1
-50414,>35,No,Undergraduate,1,Man,No,Dev,20,14,Canada,77303.0,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;npm;Angular;ASP.NET Core ;jQuery;Node.js;AWS;Microsoft Azure;Couchbase;Microsoft SQL Server;Redis;SQLite,18,1
+50414,>35,No,Un dergraduate,1,Man,No,Dev,20,14,Canada,77303.0,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;npm;Angular;ASP.NET Core ;jQuery;Node.js;AWS;Microsoft Azure;Couchbase;Microsoft SQL Server;Redis;SQLite,18,1
 55640,>35,No,NoHigherEd,0,Man,No,Dev,35,31,Germany,89580.0,C;C++;JavaScript;LISP;Managed Hosting,5,0
 52376,>35,No,Undergraduate,1,Man,No,Dev,30,32,Chile,200000.0,Assembly;Bash/Shell;C;COBOL;Groovy;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Angular;jQuery;Node.js;AWS;Elasticsearch;MariaDB;MySQL;Neo4j;Oracle;PostgreSQL;Redis,27,1
 12724,>35,No,Master,1,Man,No,Dev,30,21,Russian Federation,28308.0,C#;Java;SQL;ASP.NET;Spring;Microsoft SQL Server;Oracle,7,1
